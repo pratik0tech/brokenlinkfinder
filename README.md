@@ -1,6 +1,4 @@
 # brokenlinkfinder
-Broken Link Checker
-## Overview
 This Python script automates the process of checking for broken links on websites. It uses requests, BeautifulSoup, and pandas to crawl through web pages, identify broken links, and log the results. The script also saves the broken links to an Excel file for easy reference.
 
 ## Key Features
